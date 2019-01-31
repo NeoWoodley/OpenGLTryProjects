@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Try4.dir/try1.cpp.o  -o Try4 -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 
